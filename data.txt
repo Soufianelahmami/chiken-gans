@@ -43,13 +43,13 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-  
+    "onesignal_id": "7b887c5d-49ae-44eb-967b-6a26fd49d053",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdcE1UJ.webp",
+	 "title": "chiken gans",
+	 "text": "Download and install the game on your device. You can find it on official app stores or the developer's website.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdcE0la.webp",
+	 "title": "chiken gans",
+	 "text": "Some games may require you to create an account. Follow the on-screen instructions to set up your account.",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdcE7oP.webp",
+	 "title": "chiken gans",
+	 "text": "Games often have different modes such as single-player, multiplayer, or team-based. Select the mode you want to play.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdcEYV1.webp",
+	 "title": "chiken gans",
+	 "text": "Familiarize yourself with the game controls. Understand how to move, shoot, reload, switch weapons, and perform any special actions.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdcEaiF.webp",
+	 "title": "chiken gans",
+	 "text": "If the game has an open-world or map, explore the environment to understand key locations, hiding spots, and strategic points.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdcElKg.webp",
+	 "title": "chiken gans",
+	 "text": "Understand the game's objectives. This might involve defeating opponents, completing missions, or achieving specific goals.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
